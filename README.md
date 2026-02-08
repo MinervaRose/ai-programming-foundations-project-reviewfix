@@ -23,7 +23,7 @@ The notebook is designed as a foundation for future machine learning and AI work
 
 ---
 
-## How to Run data_workflow.ipynb
+## How to Run
 
 ### Install dependencies
 
